@@ -2,5 +2,14 @@ h1{
     color: red;
 }
 h2{
-    color: blue;
+    color: yellow;
+}
+
+html {
+    background-color: aqua;
+}
+
+p1 {
+    color: orangered;
+    
 }
